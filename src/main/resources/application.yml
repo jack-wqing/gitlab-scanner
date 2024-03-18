@@ -1,6 +1,6 @@
 gitlab:
-  gitLabDomain: "https://git.ty.ink"
-  accessToken: "xoe8jG-YYXroe-UJzSaJ"
+  gitLabDomain: "xxxx"
+  accessToken: "xxx"
   workSpace: "/data2/gitlab/"
   projectList: "projects.xlsx"
   scanBranchCount: 10
