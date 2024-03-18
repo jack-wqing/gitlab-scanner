@@ -1,0 +1,13 @@
+gitlab:
+  gitLabDomain: "https://git.ty.ink"
+  accessToken: "xoe8jG-YYXroe-UJzSaJ"
+  workSpace: "/data2/gitlab/"
+  projectList: "projects.xlsx"
+  scanBranchCount: 10
+  deleteOkProject: true
+
+spring:
+  application:
+    name: gilab-scanner
+server:
+  port: 9111
